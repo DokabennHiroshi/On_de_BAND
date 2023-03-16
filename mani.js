@@ -8,7 +8,7 @@ export default function mani() {
       <div>xtrxjc</div>
       <div>cgfcg</div>
       <div>avrvw</div>
-      <div>aaaa</div>
+      <div>jfeorijovi</div>
     </>
   )
 }
