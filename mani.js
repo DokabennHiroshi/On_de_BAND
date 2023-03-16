@@ -4,8 +4,8 @@ export default function mani() {
   return (
     <>
       <div>mani</div>
-      <div>fuhiuauiv</div>
-      <div>xtrxjc</div>
+      <div>giybgih</div>
+      <div>vbs vs</div>
       <div>cgfcg</div>
       <div>avrvw</div>
       <div>jfeorijovi</div>
