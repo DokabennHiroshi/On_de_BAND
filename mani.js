@@ -6,7 +6,7 @@ export default function mani() {
       <div>mani</div>
       <div>giybgih</div>
       <div>vbs vs</div>
-      <div>cgfcg</div>
+      <div>vsxb</div>
       <div>avrvw</div>
       <div>jfeorijovi</div>
     </>
