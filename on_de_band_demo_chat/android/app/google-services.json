@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "412861240163",
+    "project_id": "on-de-band-demo",
+    "storage_bucket": "on-de-band-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412861240163:android:da8ae6301d84f7cf727956",
+        "android_client_info": {
+          "package_name": "com.example.on_de_band_demo_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412861240163-kjqiall9mp6vo5b5jp4mi6dia0eqo1oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWUBKzzPOGCYz4Xy2EhsGnGNwG__HJSXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412861240163-kjqiall9mp6vo5b5jp4mi6dia0eqo1oc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412861240163-khqf9acorkrdsrhukamj4hqpkaeask23.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onDeBandDemoChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
